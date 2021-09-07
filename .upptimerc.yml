@@ -1,0 +1,47 @@
+# Change these first
+owner: tctree333 # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
+user-agent: tctree333
+
+sites:
+  - name: Personal Site
+    url: https://tomichen.com/
+  - name: Capital Fish
+    url: https://capitalfish.tomichen.com/
+  - name: Fun With Meth
+    url: https://funwithmeth.com/
+  - name: Stop Big Boba
+    url: https://stopbigboba.com/
+  - name: Why Are You Awake
+    url: https://whyareyouawake.com/
+  - name: Is Cancelled
+    url: https://iscancelled.com/
+  - name: Twemoji Explorer
+    url: https://twemoji.tomichen.com/
+  - name: SciOly-ID
+    url: https://sciolyid.org/
+  - name: Bird-ID
+    url: https://orni.sciolyid.org/
+  - name: Duosmium Results
+    url: https://duosmium.org/results/
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: status.tomichen.com
+  # baseUrl: /your-repo-name
+  logoUrl: https://tomichen.com/assets/logo.png
+  favicon: https://tomichen.com/assets/logo.png
+  faviconSvg: https://tomichen.com/assets/logo.svg
+  name: Site Status | Tomi Chen
+  introTitle: 'Website uptime and status'
+  introMessage: This is a simple status page [powered by Upptime](https://github.com/upptime/upptime), tracking real-time data from various sites.
+  navbar:
+    - title: Status
+      href: /
+
+commitMessages:
+  commitAuthorName: 'github-actions'
+  commitAuthorEmail: 'github-actions@github.com'
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
