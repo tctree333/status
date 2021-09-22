@@ -22,9 +22,9 @@
     "url": "https://capitalfish.tomichen.com/",
     "icon": "https://favicons.githubusercontent.com/capitalfish.tomichen.com",
     "slug": "capital-fish",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 192,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-22": 0
+    }
   },
   {
     "name": "Fun With Meth",
