@@ -24,6 +24,10 @@ sites:
     url: https://orni.sciolyid.org/
   - name: Duosmium Results
     url: https://duosmium.org/results/
+  - name: Hayward Community Garden Site
+    url: https://haywardcommunitygarden.org/
+  - name: Hayward Community Garden Forums
+    url: https://forums.haywardcommunitygarden.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -43,16 +47,15 @@ status-website:
 commitMessages:
   commitAuthorName: 'github-actions'
   commitAuthorEmail: 'github-actions@github.com'
-  
+
 # offset jobs by 3 minutes
 workflowSchedule:
-  graphs: "3 0 * * *"
-  responseTime: "3 23 * * *"
-  staticSite: "3 1 * * *"
-  summary: "3 0 * * *"
-  updateTemplate: "3 0 * * *"
-  updates: "3 3 * * *"
-  uptime: "3/5 * * * *"
-
+  graphs: '3 0 * * *'
+  responseTime: '3 23 * * *'
+  staticSite: '3 1 * * *'
+  summary: '3 0 * * *'
+  updateTemplate: '3 0 * * *'
+  updates: '3 3 * * *'
+  uptime: '3/5 * * * *'
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
