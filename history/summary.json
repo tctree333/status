@@ -60,9 +60,9 @@
     "url": "https://stopbigboba.com/",
     "icon": "https://favicons.githubusercontent.com/stopbigboba.com",
     "slug": "stop-big-boba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 265,
     "timeMonth": 218,
     "timeYear": 227,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-10": 0
+    }
   },
   {
     "name": "Why Are You Awake",
@@ -154,12 +156,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 261,
     "timeDay": 227,
     "timeWeek": 274,
-    "timeMonth": 243,
+    "timeMonth": 244,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2021-09-10": 17
