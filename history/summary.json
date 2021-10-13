@@ -96,18 +96,20 @@
     "url": "https://iscancelled.com/",
     "icon": "https://favicons.githubusercontent.com/iscancelled.com",
     "slug": "is-cancelled",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 178,
-    "timeWeek": 591,
-    "timeMonth": 621,
-    "timeYear": 581,
-    "dailyMinutesDown": {}
+    "time": 584,
+    "timeDay": 441,
+    "timeWeek": 605,
+    "timeMonth": 623,
+    "timeYear": 584,
+    "dailyMinutesDown": {
+      "2021-10-13": 0
+    }
   },
   {
     "name": "Twemoji Explorer",
