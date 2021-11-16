@@ -42,9 +42,9 @@
     "url": "https://funwithmeth.com/",
     "icon": "https://favicons.githubusercontent.com/funwithmeth.com",
     "slug": "fun-with-meth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +53,18 @@
     "timeWeek": 347,
     "timeMonth": 261,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Stop Big Boba",
     "url": "https://stopbigboba.com/",
     "icon": "https://favicons.githubusercontent.com/stopbigboba.com",
     "slug": "stop-big-boba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +73,18 @@
     "timeWeek": 143,
     "timeMonth": 172,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Why Are You Awake",
     "url": "https://whyareyouawake.com/",
     "icon": "https://favicons.githubusercontent.com/whyareyouawake.com",
     "slug": "why-are-you-awake",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +93,9 @@
     "timeWeek": 136,
     "timeMonth": 176,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Is Cancelled",
@@ -97,11 +103,11 @@
     "icon": "https://favicons.githubusercontent.com/iscancelled.com",
     "slug": "is-cancelled",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 669,
     "timeDay": 1131,
     "timeWeek": 826,
@@ -117,9 +123,9 @@
     "url": "https://twemoji.tomichen.com/",
     "icon": "https://favicons.githubusercontent.com/twemoji.tomichen.com",
     "slug": "twemoji-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,16 +134,18 @@
     "timeWeek": 183,
     "timeMonth": 255,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "SciOly-ID",
     "url": "https://sciolyid.org/",
     "icon": "https://favicons.githubusercontent.com/sciolyid.org",
     "slug": "sci-oly-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -146,7 +154,9 @@
     "timeWeek": 236,
     "timeMonth": 246,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Bird-ID",
@@ -173,9 +183,9 @@
     "url": "https://duosmium.org/results/",
     "icon": "https://favicons.githubusercontent.com/duosmium.org",
     "slug": "duosmium-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -184,16 +194,18 @@
     "timeWeek": 1555,
     "timeMonth": 816,
     "timeYear": 810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Hayward Community Garden Site",
     "url": "https://haywardcommunitygarden.org/",
     "icon": "https://favicons.githubusercontent.com/haywardcommunitygarden.org",
     "slug": "hayward-community-garden-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -202,7 +214,9 @@
     "timeWeek": 288,
     "timeMonth": 268,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-16": 0
+    }
   },
   {
     "name": "Hayward Community Garden Forums",
