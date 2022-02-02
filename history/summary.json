@@ -109,18 +109,19 @@
     "url": "https://iscancelled.com/",
     "icon": "https://favicons.githubusercontent.com/iscancelled.com",
     "slug": "is-cancelled",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
-    "time": 740,
-    "timeDay": 1144,
-    "timeWeek": 820,
-    "timeMonth": 788,
-    "timeYear": 740,
+    "time": 804,
+    "timeDay": 5972,
+    "timeWeek": 2067,
+    "timeMonth": 1101,
+    "timeYear": 804,
     "dailyMinutesDown": {
+      "2022-02-02": 2,
       "2021-11-29": 198,
       "2021-11-28": 1172,
       "2021-11-25": 51,
@@ -240,9 +241,9 @@
     "url": "https://forums.haywardcommunitygarden.org/",
     "icon": "https://favicons.githubusercontent.com/forums.haywardcommunitygarden.org",
     "slug": "hayward-community-garden-forums",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -251,6 +252,8 @@
     "timeWeek": 389,
     "timeMonth": 372,
     "timeYear": 414,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   }
 ]
