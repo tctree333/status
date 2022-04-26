@@ -6,6 +6,20 @@ user-agent: tctree333
 sites:
   - name: Personal Site
     url: https://tomichen.com/
+  - name: Tools Site
+    url: https://tools.tomichen.com/
+  - name: Duosmium Results
+    url: https://www.duosmium.org/results/
+  - name: SciOly-ID
+    url: https://sciolyid.org/
+  - name: Bird-ID API
+    url: https://orni-api.sciolyid.org/
+  - name: Minerobo API
+    url: https://minerobo.sciolyid.org/
+  - name: Hayward Community Garden Site
+    url: https://haywardcommunitygarden.org/
+  - name: Hayward Community Garden Forums
+    url: https://forums.haywardcommunitygarden.org/
   - name: Capital Fish
     url: https://capitalfish.tomichen.com/
   - name: Fun With Meth
@@ -18,16 +32,6 @@ sites:
     url: https://iscancelled.com/
   - name: Twemoji Explorer
     url: https://twemoji.tomichen.com/
-  - name: SciOly-ID
-    url: https://sciolyid.org/
-  - name: Bird-ID
-    url: https://orni.sciolyid.org/
-  - name: Duosmium Results
-    url: https://duosmium.org/results/
-  - name: Hayward Community Garden Site
-    url: https://haywardcommunitygarden.org/
-  - name: Hayward Community Garden Forums
-    url: https://forums.haywardcommunitygarden.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -39,7 +43,7 @@ status-website:
   faviconSvg: https://tomichen.com/assets/logo.svg
   name: Site Status | Tomi Chen
   introTitle: 'Website uptime and status'
-  introMessage: This is a simple status page [powered by Upptime](https://github.com/upptime/upptime), tracking real-time data from various sites.
+  introMessage: This is a simple status page powered by Upptime, tracking real-time data from various sites.
   navbar:
     - title: Status
       href: /
