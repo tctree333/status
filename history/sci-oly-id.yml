@@ -1,7 +1,7 @@
 url: https://sciolyid.org/
-status: up
-code: 200
-responseTime: 1099
-lastUpdated: 2022-08-15T23:24:52.071Z
+status: down
+code: 502
+responseTime: 288
+lastUpdated: 2022-08-16T14:43:10.781Z
 startTime: Tue Sep 07 2021 23:45:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
