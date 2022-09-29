@@ -16,10 +16,6 @@ sites:
     url: https://orni-api.sciolyid.org/
   - name: Minerobo API
     url: https://minerobo.sciolyid.org/
-  - name: Hayward Community Garden Site
-    url: https://haywardcommunitygarden.org/
-  - name: Hayward Community Garden Forums
-    url: https://forums.haywardcommunitygarden.org/
   - name: Capital Fish
     url: https://capitalfish.tomichen.com/
   - name: Fun With Meth
