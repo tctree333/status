@@ -89,10 +89,10 @@
     "url": "https://orni-api.sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/orni-api.sciolyid.org.ico",
     "slug": "bird-id-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 272,
@@ -101,6 +101,7 @@
     "timeMonth": 252,
     "timeYear": 268,
     "dailyMinutesDown": {
+      "2023-11-07": 2,
       "2023-07-04": 44
     }
   },
@@ -109,18 +110,19 @@
     "url": "https://minerobo.sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/minerobo.sciolyid.org.ico",
     "slug": "minerobo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 303,
+    "time": 304,
     "timeDay": 86,
     "timeWeek": 175,
     "timeMonth": 233,
     "timeYear": 319,
     "dailyMinutesDown": {
+      "2023-11-07": 0,
       "2023-07-04": 21,
       "2022-11-24": 17
     }
