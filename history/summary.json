@@ -88,11 +88,11 @@
     "url": "https://orni-api.sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/orni-api.sciolyid.org.ico",
     "slug": "bird-id-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 272,
     "timeDay": 235,
@@ -100,6 +100,7 @@
     "timeMonth": 259,
     "timeYear": 269,
     "dailyMinutesDown": {
+      "2023-11-17": 2,
       "2023-07-04": 44
     }
   },
@@ -108,10 +109,10 @@
     "url": "https://minerobo.sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/minerobo.sciolyid.org.ico",
     "slug": "minerobo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 305,
@@ -120,6 +121,7 @@
     "timeMonth": 243,
     "timeYear": 318,
     "dailyMinutesDown": {
+      "2023-11-17": 1,
       "2023-07-04": 21,
       "2022-11-24": 17
     }
@@ -217,18 +219,19 @@
     "url": "https://iscancelled.com/",
     "icon": "https://icons.duckduckgo.com/ip3/iscancelled.com.ico",
     "slug": "is-cancelled",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 813,
-    "timeDay": 1003,
-    "timeWeek": 842,
-    "timeMonth": 735,
-    "timeYear": 792,
+    "time": 832,
+    "timeDay": 5540,
+    "timeWeek": 1996,
+    "timeMonth": 1027,
+    "timeYear": 817,
     "dailyMinutesDown": {
+      "2023-11-17": 0,
       "2023-06-13": 85,
       "2022-12-11": 87
     }
