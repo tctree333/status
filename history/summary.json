@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 228,
-    "timeWeek": 170,
-    "timeMonth": 159,
+    "time": 271,
+    "timeDay": 120,
+    "timeWeek": 161,
+    "timeMonth": 154,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -29,13 +29,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 352,
-    "timeDay": 652,
+    "timeDay": 108,
     "timeWeek": 297,
-    "timeMonth": 229,
+    "timeMonth": 223,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2022-12-13": 47,
-      "2022-12-10": 22
+      "2022-12-13": 47
     }
   },
   {
@@ -49,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 315,
-    "timeWeek": 268,
-    "timeMonth": 245,
-    "timeYear": 285,
+    "time": 313,
+    "timeDay": 37,
+    "timeWeek": 220,
+    "timeMonth": 238,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2022-12-13": 18
     }
@@ -64,15 +63,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sciolyid.org.ico",
     "slug": "sci-oly-id",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 361,
-    "timeDay": 175,
-    "timeWeek": 220,
-    "timeMonth": 284,
+    "timeDay": 235,
+    "timeWeek": 240,
+    "timeMonth": 272,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2022-12-18": 17,
@@ -91,9 +90,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 269,
-    "timeDay": 226,
-    "timeWeek": 252,
-    "timeMonth": 243,
+    "timeDay": 235,
+    "timeWeek": 230,
+    "timeMonth": 242,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2023-11-17": 26,
@@ -112,9 +111,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 303,
-    "timeDay": 118,
-    "timeWeek": 231,
-    "timeMonth": 238,
+    "timeDay": 188,
+    "timeWeek": 202,
+    "timeMonth": 234,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2023-11-17": 25,
@@ -133,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
-    "timeDay": 620,
-    "timeWeek": 221,
-    "timeMonth": 209,
+    "timeDay": 55,
+    "timeWeek": 202,
+    "timeMonth": 201,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -151,14 +150,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 321,
-    "timeDay": 131,
-    "timeWeek": 160,
-    "timeMonth": 166,
+    "timeDay": 119,
+    "timeWeek": 157,
+    "timeMonth": 163,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2022-12-15": 22,
-      "2022-12-13": 18,
-      "2022-12-10": 19
+      "2022-12-13": 18
     }
   },
   {
@@ -173,13 +171,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 337,
-    "timeDay": 127,
-    "timeWeek": 292,
-    "timeMonth": 179,
+    "timeDay": 65,
+    "timeWeek": 238,
+    "timeMonth": 174,
     "timeYear": 256,
     "dailyMinutesDown": {
-      "2022-12-15": 21,
-      "2022-12-10": 19
+      "2022-12-15": 21
     }
   },
   {
@@ -194,9 +191,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 314,
-    "timeDay": 270,
-    "timeWeek": 214,
-    "timeMonth": 166,
+    "timeDay": 118,
+    "timeWeek": 209,
+    "timeMonth": 163,
     "timeYear": 264,
     "dailyMinutesDown": {
       "2022-12-15": 29,
@@ -209,16 +206,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iscancelled.com.ico",
     "slug": "is-cancelled",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 812,
-    "timeDay": 1052,
-    "timeWeek": 1040,
-    "timeMonth": 1129,
-    "timeYear": 810,
+    "timeDay": 1114,
+    "timeWeek": 1035,
+    "timeMonth": 1155,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2023-11-17": 24,
       "2023-06-13": 85,
@@ -236,11 +233,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 327,
-    "timeWeek": 264,
-    "timeMonth": 235,
-    "timeYear": 300,
+    "time": 344,
+    "timeDay": 53,
+    "timeWeek": 251,
+    "timeMonth": 210,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2022-12-15": 21
     }
