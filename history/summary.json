@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tomichen.com.ico",
     "slug": "personal-site",
     "status": "up",
-    "uptime": "96.83%",
+    "uptime": "96.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 74,
-    "timeWeek": 195,
-    "timeMonth": 167,
+    "timeDay": 162,
+    "timeWeek": 202,
+    "timeMonth": 165,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
-    "timeDay": 180,
-    "timeWeek": 359,
-    "timeMonth": 244,
+    "timeDay": 184,
+    "timeWeek": 303,
+    "timeMonth": 247,
     "timeYear": 250,
     "dailyMinutesDown": {}
   },
@@ -46,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 35,
-    "timeWeek": 758,
-    "timeMonth": 359,
+    "time": 319,
+    "timeDay": 281,
+    "timeWeek": 764,
+    "timeMonth": 362,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -59,19 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sciolyid.org.ico",
     "slug": "sci-oly-id",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 361,
-    "timeDay": 177,
-    "timeWeek": 231,
-    "timeMonth": 275,
+    "timeDay": 320,
+    "timeWeek": 247,
+    "timeMonth": 278,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2022-12-18": 17,
-      "2022-12-15": 21
+      "2022-12-18": 17
     }
   },
   {
@@ -86,10 +85,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 268,
-    "timeDay": 401,
-    "timeWeek": 235,
-    "timeMonth": 241,
-    "timeYear": 266,
+    "timeDay": 176,
+    "timeWeek": 226,
+    "timeMonth": 239,
+    "timeYear": 265,
     "dailyMinutesDown": {
       "2023-11-17": 26,
       "2023-07-04": 44
@@ -107,10 +106,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 302,
-    "timeDay": 265,
-    "timeWeek": 213,
-    "timeMonth": 242,
-    "timeYear": 263,
+    "timeDay": 137,
+    "timeWeek": 197,
+    "timeMonth": 240,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2023-11-17": 25,
       "2023-07-04": 21
@@ -128,10 +127,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 140,
-    "timeWeek": 277,
-    "timeMonth": 199,
-    "timeYear": 287,
+    "timeDay": 166,
+    "timeWeek": 283,
+    "timeMonth": 201,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
@@ -146,13 +145,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 66,
-    "timeWeek": 137,
-    "timeMonth": 161,
+    "timeDay": 171,
+    "timeWeek": 123,
+    "timeMonth": 163,
     "timeYear": 250,
-    "dailyMinutesDown": {
-      "2022-12-15": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stop Big Boba",
@@ -165,14 +162,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 221,
-    "timeWeek": 158,
-    "timeMonth": 188,
+    "time": 334,
+    "timeDay": 163,
+    "timeWeek": 175,
+    "timeMonth": 189,
     "timeYear": 241,
-    "dailyMinutesDown": {
-      "2022-12-15": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Why Are You Awake",
@@ -186,13 +181,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 314,
-    "timeDay": 140,
-    "timeWeek": 192,
-    "timeMonth": 177,
+    "timeDay": 161,
+    "timeWeek": 200,
+    "timeMonth": 178,
     "timeYear": 247,
-    "dailyMinutesDown": {
-      "2022-12-15": 29
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Is Cancelled",
@@ -206,9 +199,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 809,
-    "timeDay": 1072,
-    "timeWeek": 989,
-    "timeMonth": 1184,
+    "timeDay": 892,
+    "timeWeek": 993,
+    "timeMonth": 1180,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2023-11-17": 24,
@@ -227,12 +220,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 341,
-    "timeDay": 139,
-    "timeWeek": 179,
-    "timeMonth": 223,
+    "timeDay": 138,
+    "timeWeek": 189,
+    "timeMonth": 225,
     "timeYear": 298,
-    "dailyMinutesDown": {
-      "2022-12-15": 21
-    }
+    "dailyMinutesDown": {}
   }
 ]
