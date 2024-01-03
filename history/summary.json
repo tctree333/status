@@ -22,19 +22,19 @@
     "url": "https://tools.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tomichen.com.ico",
     "slug": "tools-site",
-    "status": "down",
+    "status": "up",
     "uptime": "97.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 1676,
-    "timeWeek": 518,
-    "timeMonth": 367,
-    "timeYear": 252,
+    "timeDay": 1151,
+    "timeWeek": 472,
+    "timeMonth": 359,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 17
     }
   },
   {
@@ -62,18 +62,16 @@
     "slug": "sci-oly-id",
     "status": "up",
     "uptime": "98.46%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 1200,
     "timeWeek": 564,
     "timeMonth": 349,
     "timeYear": 311,
-    "dailyMinutesDown": {
-      "2024-01-03": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bird-ID API",
@@ -142,18 +140,16 @@
     "slug": "fun-with-meth",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 313,
     "timeDay": 128,
     "timeWeek": 195,
     "timeMonth": 184,
     "timeYear": 241,
-    "dailyMinutesDown": {
-      "2024-01-03": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stop Big Boba",
