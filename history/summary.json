@@ -216,19 +216,19 @@
     "url": "https://twemoji.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/twemoji.tomichen.com.ico",
     "slug": "twemoji-explorer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 911,
-    "timeWeek": 336,
-    "timeMonth": 214,
+    "timeDay": 662,
+    "timeWeek": 317,
+    "timeMonth": 213,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 17
     }
   }
 ]
