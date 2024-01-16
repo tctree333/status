@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tools.tomichen.com.ico",
     "slug": "tools-site",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sciolyid.org.ico",
     "slug": "sci-oly-id",
     "status": "up",
-    "uptime": "98.48%",
+    "uptime": "98.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -216,17 +216,19 @@
     "url": "https://twemoji.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/twemoji.tomichen.com.ico",
     "slug": "twemoji-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 163,
-    "timeWeek": 147,
-    "timeMonth": 167,
-    "timeYear": 277,
-    "dailyMinutesDown": {}
+    "time": 328,
+    "timeDay": 911,
+    "timeWeek": 336,
+    "timeMonth": 214,
+    "timeYear": 280,
+    "dailyMinutesDown": {
+      "2024-01-16": 0
+    }
   }
 ]
