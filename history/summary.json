@@ -6,17 +6,17 @@
     "slug": "personal-site",
     "status": "down",
     "uptime": "97.15%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 232,
     "timeDay": 110,
     "timeWeek": 123,
     "timeMonth": 165,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-03-16": 21
+      "2024-03-16": 40
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "tools-site",
     "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 286,
     "timeDay": 110,
@@ -36,7 +36,7 @@
     "timeMonth": 399,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-03-16": 21,
+      "2024-03-16": 40,
       "2024-01-03": 17
     }
   },
@@ -63,9 +63,9 @@
     "url": "https://sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/sciolyid.org.ico",
     "slug": "sci-oly-id",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 256,
     "timeMonth": 269,
     "timeYear": 309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Bird-ID API",
@@ -127,17 +129,17 @@
     "slug": "capital-fish",
     "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 311,
     "timeDay": 137,
     "timeWeek": 133,
     "timeMonth": 201,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-03-16": 21
+      "2024-03-16": 40
     }
   },
   {
@@ -145,9 +147,9 @@
     "url": "https://funwithmeth.com/",
     "icon": "https://icons.duckduckgo.com/ip3/funwithmeth.com.ico",
     "slug": "fun-with-meth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "98.52%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -165,19 +167,19 @@
     "url": "https://stopbigboba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stopbigboba.com.ico",
     "slug": "stop-big-boba",
-    "status": "down",
+    "status": "up",
     "uptime": "97.16%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 113,
-    "timeWeek": 233,
-    "timeMonth": 202,
-    "timeYear": 216,
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
+    "time": 266,
+    "timeDay": 102,
+    "timeWeek": 215,
+    "timeMonth": 199,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-03-16": 21
+      "2024-03-16": 40
     }
   },
   {
@@ -226,19 +228,19 @@
     "url": "https://twemoji.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/twemoji.tomichen.com.ico",
     "slug": "twemoji-explorer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 629,
-    "timeWeek": 318,
-    "timeMonth": 224,
-    "timeYear": 266,
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 277,
+    "timeDay": 394,
+    "timeWeek": 298,
+    "timeMonth": 222,
+    "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-03-16": 0,
+      "2024-03-16": 19,
       "2024-01-16": 17
     }
   }
