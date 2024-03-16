@@ -4,9 +4,9 @@
     "url": "https://tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tomichen.com.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "97.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 123,
     "timeMonth": 165,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Tools Site",
     "url": "https://tools.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tomichen.com.ico",
     "slug": "tools-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 399,
     "timeYear": 250,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-01-03": 17
     }
   },
@@ -60,9 +63,9 @@
     "url": "https://sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/sciolyid.org.ico",
     "slug": "sci-oly-id",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +74,9 @@
     "timeWeek": 262,
     "timeMonth": 271,
     "timeYear": 309,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Bird-ID API",
@@ -122,9 +127,9 @@
     "url": "https://capitalfish.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/capitalfish.tomichen.com.ico",
     "slug": "capital-fish",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,16 +138,18 @@
     "timeWeek": 133,
     "timeMonth": 201,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Fun With Meth",
     "url": "https://funwithmeth.com/",
     "icon": "https://icons.duckduckgo.com/ip3/funwithmeth.com.ico",
     "slug": "fun-with-meth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,34 +158,38 @@
     "timeWeek": 206,
     "timeMonth": 181,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Stop Big Boba",
     "url": "https://stopbigboba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stopbigboba.com.ico",
     "slug": "stop-big-boba",
-    "status": "up",
+    "status": "down",
     "uptime": "97.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
+    "time": 267,
     "timeDay": 113,
     "timeWeek": 233,
     "timeMonth": 202,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Why Are You Awake",
     "url": "https://whyareyouawake.com/",
     "icon": "https://icons.duckduckgo.com/ip3/whyareyouawake.com.ico",
     "slug": "why-are-you-awake",
-    "status": "up",
+    "status": "down",
     "uptime": "97.14%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -187,7 +198,9 @@
     "timeWeek": 137,
     "timeMonth": 134,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Is Cancelled",
