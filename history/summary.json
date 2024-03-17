@@ -6,17 +6,17 @@
     "slug": "personal-site",
     "status": "up",
     "uptime": "97.15%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 231,
-    "timeDay": 176,
-    "timeWeek": 142,
-    "timeMonth": 168,
+    "timeDay": 204,
+    "timeWeek": 154,
+    "timeMonth": 167,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-03-16": 69
+      "2024-03-16": 58
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "tools-site",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "95.25%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.98%",
-    "time": 285,
-    "timeDay": 136,
-    "timeWeek": 638,
-    "timeMonth": 383,
-    "timeYear": 250,
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
+    "time": 286,
+    "timeDay": 298,
+    "timeWeek": 685,
+    "timeMonth": 384,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-03-16": 69,
+      "2024-03-16": 58,
       "2024-01-03": 17
     }
   },
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 231,
-    "timeWeek": 241,
-    "timeMonth": 232,
-    "timeYear": 271,
+    "timeDay": 366,
+    "timeWeek": 268,
+    "timeMonth": 234,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -65,17 +65,17 @@
     "slug": "sci-oly-id",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "98.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 312,
-    "timeWeek": 287,
+    "timeDay": 336,
+    "timeWeek": 276,
     "timeMonth": 278,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2024-03-16": 29
+      "2024-03-16": 18
     }
   },
   {
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 267,
-    "timeDay": 255,
+    "timeDay": 244,
     "timeWeek": 261,
-    "timeMonth": 271,
+    "timeMonth": 275,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2024-01-15": 45,
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 297,
-    "timeDay": 297,
-    "timeWeek": 240,
-    "timeMonth": 241,
-    "timeYear": 260,
+    "timeDay": 231,
+    "timeWeek": 258,
+    "timeMonth": 240,
+    "timeYear": 261,
     "dailyMinutesDown": {
       "2024-01-15": 44,
       "2023-11-17": 25,
@@ -128,18 +128,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/capitalfish.tomichen.com.ico",
     "slug": "capital-fish",
     "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
+    "uptime": "98.60%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 211,
+    "timeDay": 233,
     "timeWeek": 158,
     "timeMonth": 204,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2024-03-16": 69
+      "2024-03-16": 58
     }
   },
   {
@@ -149,17 +149,17 @@
     "slug": "fun-with-meth",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 262,
-    "timeDay": 150,
-    "timeWeek": 192,
-    "timeMonth": 179,
+    "timeDay": 191,
+    "timeWeek": 216,
+    "timeMonth": 181,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-03-16": 50
+      "2024-03-16": 39
     }
   },
   {
@@ -168,18 +168,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/stopbigboba.com.ico",
     "slug": "stop-big-boba",
     "status": "up",
-    "uptime": "97.15%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.88%",
+    "uptime": "97.16%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 246,
-    "timeWeek": 251,
-    "timeMonth": 209,
+    "timeDay": 257,
+    "timeWeek": 253,
+    "timeMonth": 196,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-03-16": 51
+      "2024-03-16": 40
     }
   },
   {
@@ -189,18 +189,16 @@
     "slug": "why-are-you-awake",
     "status": "up",
     "uptime": "97.14%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 250,
-    "timeDay": 149,
-    "timeWeek": 122,
-    "timeMonth": 129,
+    "timeDay": 110,
+    "timeWeek": 136,
+    "timeMonth": 130,
     "timeYear": 183,
-    "dailyMinutesDown": {
-      "2024-03-16": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Is Cancelled",
@@ -213,11 +211,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 830,
-    "timeDay": 970,
-    "timeWeek": 740,
-    "timeMonth": 769,
-    "timeYear": 814,
+    "time": 832,
+    "timeDay": 1008,
+    "timeWeek": 766,
+    "timeMonth": 794,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2024-01-17": 29,
       "2024-01-15": 43,
@@ -232,17 +230,17 @@
     "slug": "twemoji-explorer",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 278,
-    "timeDay": 319,
-    "timeWeek": 284,
-    "timeMonth": 220,
+    "timeDay": 171,
+    "timeWeek": 295,
+    "timeMonth": 217,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2024-03-16": 30,
+      "2024-03-16": 19,
       "2024-01-16": 17
     }
   }
