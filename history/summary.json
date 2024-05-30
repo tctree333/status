@@ -105,9 +105,9 @@
     "url": "https://minerobo.sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/minerobo.sciolyid.org.ico",
     "slug": "minerobo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -117,6 +117,7 @@
     "timeMonth": 265,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2024-05-30": 0,
       "2024-01-15": 44,
       "2023-11-17": 25,
       "2023-07-04": 21
