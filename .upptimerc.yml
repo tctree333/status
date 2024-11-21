@@ -10,6 +10,8 @@ sites:
     url: https://tools.tomichen.com/
   - name: Duosmium Results
     url: https://www.duosmium.org/results/
+  - name: Duosmium Scoring
+    url: https://scoring.duosmium.org/
   - name: SciOly-ID
     url: https://sciolyid.org/
   - name: Bird-ID API
@@ -56,6 +58,6 @@ workflowSchedule:
   summary: '3 0 * * *'
   updateTemplate: '3 0 * * *'
   updates: '3 3 * * *'
-  uptime: '3/5 * * * *'
+  uptime: '*/7 * * * *'
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
