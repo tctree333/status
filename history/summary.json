@@ -65,18 +65,20 @@
     "url": "https://scoring.duosmium.org/",
     "icon": "https://icons.duckduckgo.com/ip3/scoring.duosmium.org.ico",
     "slug": "duosmium-scoring",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 556,
-    "timeWeek": 337,
-    "timeMonth": 354,
-    "timeYear": 432,
-    "dailyMinutesDown": {}
+    "time": 430,
+    "timeDay": 440,
+    "timeWeek": 335,
+    "timeMonth": 353,
+    "timeYear": 430,
+    "dailyMinutesDown": {
+      "2025-01-22": 0
+    }
   },
   {
     "name": "SciOly-ID",
