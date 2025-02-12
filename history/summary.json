@@ -105,9 +105,9 @@
     "url": "https://orni-api.sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/orni-api.sciolyid.org.ico",
     "slug": "bird-id-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +116,9 @@
     "timeWeek": 251,
     "timeMonth": 292,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "Minerobo API",
