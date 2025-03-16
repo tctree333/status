@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 179,
-    "timeDay": 166,
-    "timeWeek": 241,
-    "timeMonth": 220,
+    "timeDay": 231,
+    "timeWeek": 172,
+    "timeMonth": 223,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2024-03-16": 58
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tools Site",
@@ -31,15 +29,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 249,
-    "timeDay": 166,
-    "timeWeek": 184,
-    "timeMonth": 204,
+    "timeDay": 212,
+    "timeWeek": 172,
+    "timeMonth": 201,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2024-10-10": 21,
       "2024-10-09": 20,
-      "2024-09-11": 20,
-      "2024-03-16": 58
+      "2024-09-11": 20
     }
   },
   {
@@ -54,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 217,
-    "timeWeek": 283,
-    "timeMonth": 241,
+    "timeDay": 344,
+    "timeWeek": 293,
+    "timeMonth": 250,
     "timeYear": 261,
     "dailyMinutesDown": {}
   },
@@ -71,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 385,
-    "timeDay": 378,
-    "timeWeek": 378,
-    "timeMonth": 344,
-    "timeYear": 385,
+    "time": 386,
+    "timeDay": 425,
+    "timeWeek": 372,
+    "timeMonth": 351,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2025-01-22": 21
     }
@@ -91,14 +88,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 664,
-    "timeWeek": 349,
-    "timeMonth": 347,
-    "timeYear": 297,
-    "dailyMinutesDown": {
-      "2024-03-16": 18
-    }
+    "time": 295,
+    "timeDay": 683,
+    "timeWeek": 403,
+    "timeMonth": 363,
+    "timeYear": 298,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bird-ID API",
@@ -111,10 +106,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 164,
-    "timeWeek": 284,
-    "timeMonth": 302,
+    "time": 274,
+    "timeDay": 467,
+    "timeWeek": 276,
+    "timeMonth": 309,
     "timeYear": 278,
     "dailyMinutesDown": {}
   },
@@ -129,10 +124,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 131,
-    "timeWeek": 238,
-    "timeMonth": 285,
+    "time": 262,
+    "timeDay": 360,
+    "timeWeek": 230,
+    "timeMonth": 289,
     "timeYear": 271,
     "dailyMinutesDown": {}
   },
@@ -148,13 +143,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 247,
-    "timeDay": 601,
-    "timeWeek": 267,
-    "timeMonth": 251,
+    "timeDay": 229,
+    "timeWeek": 273,
+    "timeMonth": 253,
     "timeYear": 256,
-    "dailyMinutesDown": {
-      "2024-03-16": 58
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fun With Meth",
@@ -167,14 +160,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 194,
-    "timeDay": 150,
-    "timeWeek": 167,
-    "timeMonth": 249,
+    "time": 195,
+    "timeDay": 250,
+    "timeWeek": 170,
+    "timeMonth": 252,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-09-11": 20,
-      "2024-03-16": 39
+      "2024-09-11": 20
     }
   },
   {
@@ -189,13 +181,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 523,
-    "timeWeek": 195,
-    "timeMonth": 212,
+    "timeDay": 219,
+    "timeWeek": 197,
+    "timeMonth": 214,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-10-09": 24,
-      "2024-03-16": 40
+      "2024-10-09": 24
     }
   },
   {
@@ -209,10 +200,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 175,
-    "timeDay": 194,
-    "timeWeek": 247,
-    "timeMonth": 196,
+    "time": 174,
+    "timeDay": 221,
+    "timeWeek": 188,
+    "timeMonth": 197,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -228,9 +219,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 782,
-    "timeDay": 889,
-    "timeWeek": 667,
-    "timeMonth": 658,
+    "timeDay": 936,
+    "timeWeek": 647,
+    "timeMonth": 685,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2024-11-04": 19
@@ -248,12 +239,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 520,
-    "timeWeek": 291,
-    "timeMonth": 280,
-    "timeYear": 262,
-    "dailyMinutesDown": {
-      "2024-03-16": 19
-    }
+    "timeDay": 202,
+    "timeWeek": 281,
+    "timeMonth": 284,
+    "timeYear": 261,
+    "dailyMinutesDown": {}
   }
 ]
