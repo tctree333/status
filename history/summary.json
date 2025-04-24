@@ -108,19 +108,19 @@
     "url": "https://orni-api.sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/orni-api.sciolyid.org.ico",
     "slug": "bird-id-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 9936,
-    "timeWeek": 2710,
-    "timeMonth": 885,
-    "timeYear": 333,
+    "timeDay": 6717,
+    "timeWeek": 2440,
+    "timeMonth": 866,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 10
     }
   },
   {
