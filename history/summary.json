@@ -4,9 +4,9 @@
     "url": "https://tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tomichen.com.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 201,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-23": 53
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://tools.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/tools.tomichen.com.ico",
     "slug": "tools-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.98%",
-    "time": 248,
+    "time": 249,
     "timeDay": 761,
     "timeWeek": 246,
     "timeMonth": 281,
     "timeYear": 246,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-23": 53,
       "2024-10-10": 21,
       "2024-10-09": 20,
@@ -88,9 +90,9 @@
     "url": "https://sciolyid.org/",
     "icon": "https://icons.duckduckgo.com/ip3/sciolyid.org.ico",
     "slug": "sci-oly-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
@@ -100,6 +102,7 @@
     "timeMonth": 444,
     "timeYear": 317,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-23": 52
     }
   },
@@ -144,9 +147,9 @@
     "url": "https://capitalfish.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/capitalfish.tomichen.com.ico",
     "slug": "capital-fish",
-    "status": "up",
+    "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
@@ -156,6 +159,7 @@
     "timeMonth": 240,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-23": 52
     }
   },
@@ -164,9 +168,9 @@
     "url": "https://funwithmeth.com/",
     "icon": "https://icons.duckduckgo.com/ip3/funwithmeth.com.ico",
     "slug": "fun-with-meth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
@@ -176,6 +180,7 @@
     "timeMonth": 295,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-23": 51,
       "2024-09-11": 20
     }
@@ -185,9 +190,9 @@
     "url": "https://stopbigboba.com/",
     "icon": "https://icons.duckduckgo.com/ip3/stopbigboba.com.ico",
     "slug": "stop-big-boba",
-    "status": "up",
+    "status": "down",
     "uptime": "98.04%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
@@ -197,6 +202,7 @@
     "timeMonth": 267,
     "timeYear": 226,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-23": 51,
       "2024-10-09": 24
     }
@@ -206,9 +212,9 @@
     "url": "https://whyareyouawake.com/",
     "icon": "https://icons.duckduckgo.com/ip3/whyareyouawake.com.ico",
     "slug": "why-are-you-awake",
-    "status": "up",
+    "status": "down",
     "uptime": "98.03%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
@@ -218,6 +224,7 @@
     "timeMonth": 217,
     "timeYear": 191,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-23": 50
     }
   },
@@ -246,18 +253,19 @@
     "url": "https://twemoji.tomichen.com/",
     "icon": "https://icons.duckduckgo.com/ip3/twemoji.tomichen.com.ico",
     "slug": "twemoji-explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 252,
+    "time": 253,
     "timeDay": 115,
     "timeWeek": 187,
     "timeMonth": 207,
     "timeYear": 267,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-23": 50
     }
   }
