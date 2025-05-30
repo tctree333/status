@@ -1,7 +1,7 @@
 url: https://orni-api.sciolyid.org/
-status: down
-code: 522
-responseTime: 19594
-lastUpdated: 2025-05-30T12:51:30.070Z
+status: up
+code: 200
+responseTime: 258
+lastUpdated: 2025-05-30T13:21:25.124Z
 startTime: 2022-04-26T01:46:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
